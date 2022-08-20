@@ -1,0 +1,4 @@
+{"level":"info","timestamp":"Aug 08, 2022  19:25:30","message":"Zap logger construction succeeded","appName":"argalon-service"}
+{"level":"info","timestamp":"Aug 08, 2022  19:25:30","message":"Argalon Service for divide is starting...","appName":"argalon-service"}
+{"level":"info","timestamp":"Aug 08, 2022  19:25:30","message":"Argalon Divide Server Listening for API Calls.","appName":"argalon-service"}
+{"level":"error","timestamp":"Aug 08, 2022  19:25:37","message":"error in division ","appName":"argalon-service","error":"cannot divide by 0","Provided Request DivideRequestDM":{"a":10,"b":0}}
